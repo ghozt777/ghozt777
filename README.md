@@ -44,7 +44,7 @@
 
 
 
-![ghozt777's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghozt777&show_icons=true&theme=github_dark)
+<!-- ![ghozt777's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghozt777&show_icons=true&theme=github_dark) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghozt777&show_icons=true&theme=github_dark)](https://github.com/ghozt777/github-readme-stats)
 
