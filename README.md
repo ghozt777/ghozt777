@@ -1,7 +1,7 @@
-### Hi there, I'm Srijan Das - aka [codeSTACKr][website] 👋
+### Hi there, I'm Srijan Das - aka [ghozt777][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ghozt.netlify.app/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ghozt60510632)
+[![Website](https://img.shields.io/website?down_message=offline&label=ghozt&up_color=%238B5CF6&up_message=online&url=https%3A%2F%2Fghozt.netlify.app%2F)](https://ghozt.netlify.app/)
+[![Twitter Follow](https://img.shields.io/twitter/url?label=ghozt&logoColor=%231F2937&style=social&url=https%3A%2F%2Ftwitter.com%2Fghozt60510632)](https://twitter.com/ghozt60510632)
 
 ## I'm a Procrastinator, Student 🤓  , CS enthusiast 🖥️  , and a gaming addict 🎮 !!
 
