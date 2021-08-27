@@ -6,7 +6,7 @@
 ### I'm a Procrastinator, Student 🤓  , CS enthusiast 🖥️  , and a gaming addict 🎮 !!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🤝 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Get into Open Source Development
 - ⚡ Fun fact: I love to sleep 😴 
 
