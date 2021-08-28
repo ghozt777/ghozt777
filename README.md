@@ -2,7 +2,7 @@
 
 <img src="./github-background.png" alt="background" />
 
-### Spotify Playing 
+### I'm currently listening to 🎧 
 [![Spotify](https://github-spotify-1bs3qe7jk-ghozt777.vercel.app/api/spotify)](https://open.spotify.com/user/ghozt777)
 
 
