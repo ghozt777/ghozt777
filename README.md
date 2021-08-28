@@ -3,7 +3,7 @@
 <img src="./github-background.png" alt="background" />
 
 ### Spotify Playing 
-<img src="https://github-spotify-1bs3qe7jk-ghozt777.vercel.app/api/spotify" alt="ghozt777-Spotify-Playing" width="350" />
+<img src="https://github-spotify-1bs3qe7jk-ghozt777.vercel.app/api/spotify" alt="ghozt777-Spotify-Playing" width="350" />(https://open.spotify.com/user/ghozt777)
 
 
 [![Website](https://img.shields.io/website?down_message=offline&label=ghozt&up_color=%238B5CF6&up_message=online&url=https%3A%2F%2Fghozt.netlify.app%2F)](https://ghozt.netlify.app/)
