@@ -65,10 +65,10 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ghozt777&theme=dark" alt="ghozt777" />
 </p>
 
+<!--START_SECTION:activity-->
+
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=ghozt777&label=visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
 
- 
- <!--START_SECTION:activity-->
 
 
 
