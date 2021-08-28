@@ -48,14 +48,12 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghozt777&show_icons=true&theme=github_dark" alt="ghozt-languages" /></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ghozt777&repo=Logan-UI&show_icons=true&theme=github_dark)](https://github.com/ghozt777/Logan-UI)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghozt777&repo=Logan-UI&show_icons=true&theme=github_dark"  alt="Logan-UI-card" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ghozt777&theme=dark" alt="ghozt777" />
 </p>
 
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=ghozt777&label=visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
-
-![Visitor Count](https://profile-counter.glitch.me/tausifaman222/count.svg)
  
 
 
