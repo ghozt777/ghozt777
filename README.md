@@ -50,7 +50,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ghozt777&show_icons=true&theme=midnight-purple" alt="ghozt777-stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghozt777&show_icons=true&theme=midnight-purple" alt="ghozt-languages" />
 </p>
-<p><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghozt777&repo=Logan-UI&show_icons=true&theme=midnight-purple"  alt="Logan-UI-card" /> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ghozt777" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghozt777&repo=Logan-UI&show_icons=true&theme=midnight-purple"  alt="Logan-UI-card" /></p>
+
+[![ghozt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ghozt777)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
