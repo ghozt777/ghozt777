@@ -1,5 +1,7 @@
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  I'm Srijan Das - aka [ghozt777][website]
 
+[header-image](github-background.png)
+
 [![Website](https://img.shields.io/website?down_message=offline&label=ghozt&up_color=%238B5CF6&up_message=online&url=https%3A%2F%2Fghozt.netlify.app%2F)](https://ghozt.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/url?label=ghozt&logoColor=%231F2937&style=social&url=https%3A%2F%2Ftwitter.com%2Fghozt60510632)](https://twitter.com/ghozt60510632)
 
