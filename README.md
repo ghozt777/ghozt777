@@ -50,7 +50,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ghozt777&repo=Logan-UI&show_icons=true&theme=github_dark)](https://github.com/ghozt777/Logan-UI)
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ghozt777" alt="ghozt777" />
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ghozt777&theme=dark" alt="ghozt777" />
 </p>
 
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=ghozt777&label=visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
