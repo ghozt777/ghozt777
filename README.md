@@ -49,7 +49,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghozt777&show_icons=true&theme=github_dark" alt="ghozt-languages" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ghozt777&repo=Logan-UI&show_icons=true&theme=github_dark"  alt="Logan-UI-card" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghozt777&repo=Logan-UI&show_icons=true&theme=github_dark"  alt="Logan-UI-card" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ghozt777&theme=dark" alt="ghozt777" />
 </p>
