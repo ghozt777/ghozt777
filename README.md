@@ -62,6 +62,7 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
+<ul>
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/ghozt777/ghozt777/pull/2) in [ghozt777/ghozt777](https://github.com/ghozt777/ghozt777)
 2. 💪 Opened PR [#2](https://github.com/ghozt777/ghozt777/pull/2) in [ghozt777/ghozt777](https://github.com/ghozt777/ghozt777)
@@ -69,6 +70,7 @@
 4. 💪 Opened PR [#14](https://github.com/ghozt777/help-let-me-go/pull/14) in [ghozt777/help-let-me-go](https://github.com/ghozt777/help-let-me-go)
 5. 🎉 Merged PR [#13](https://github.com/ghozt777/help-let-me-go/pull/13) in [ghozt777/help-let-me-go](https://github.com/ghozt777/help-let-me-go)
 <!--END_SECTION:activity-->
+</ul>
 </details />
 
 
