@@ -45,7 +45,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ghozt777&show_icons=true&theme=outrun" alt="ghozt777-stats"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ghozt777&show_icons=true&theme=midnight-purple" alt="ghozt777-stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghozt777&show_icons=true&theme=outrun" alt="ghozt-languages" />
 </p>
 
