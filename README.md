@@ -47,9 +47,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ghozt777&show_icons=true&theme=github_dark" alt="ghozt777-stats"/></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ghozt777&repo=Logan-UI&show_icons=true&theme=github_dark"  alt="Logan-UI-card" /></p>
-
 <br />
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ghozt777&repo=Logan-UI&show_icons=true&theme=github_dark"  alt="Logan-UI-card" /></p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghozt777&show_icons=true&theme=github_dark" alt="ghozt-languages" /></p>
 
