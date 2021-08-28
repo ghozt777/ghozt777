@@ -24,7 +24,9 @@
 
 <br />
 
-[![Spotify](https://novatorem-ghozt777.vercel.app/)]
+
+### Spotify Playing 
+[<img src="https://novatorem-ghozt777.vercel.app/" alt="ghozt777-Spotify-Playing" width="350" />]
 
 ### Languages and Tools that I'm currentlu learning:
 
