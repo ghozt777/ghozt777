@@ -56,15 +56,8 @@
 </p>
 <p><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghozt777&repo=Logan-UI&show_icons=true&theme=midnight-purple"  alt="Logan-UI-card" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ghozt777&show_icons=true&theme=midnight-purple" /></p>
-
-
-
-
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ghozt777&theme=dark" alt="ghozt777" />
-</p>
-
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/ghozt777/ghozt777/pull/2) in [ghozt777/ghozt777](https://github.com/ghozt777/ghozt777)
 2. 💪 Opened PR [#2](https://github.com/ghozt777/ghozt777/pull/2) in [ghozt777/ghozt777](https://github.com/ghozt777/ghozt777)
@@ -72,7 +65,10 @@
 4. 💪 Opened PR [#14](https://github.com/ghozt777/help-let-me-go/pull/14) in [ghozt777/help-let-me-go](https://github.com/ghozt777/help-let-me-go)
 5. 🎉 Merged PR [#13](https://github.com/ghozt777/help-let-me-go/pull/13) in [ghozt777/help-let-me-go](https://github.com/ghozt777/help-let-me-go)
 <!--END_SECTION:activity-->
-
+</details />
+  
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ghozt777&theme=dark" alt="ghozt777" />
+</p>
 
 
 [website]: https://ghozt.netlify.app/
