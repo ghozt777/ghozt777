@@ -52,7 +52,7 @@
 </p>
 <p><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghozt777&repo=Logan-UI&show_icons=true&theme=midnight-purple"  alt="Logan-UI-card" /></p>
 
-[![ghozt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ghozt777)](https://github.com/anuraghazra/github-readme-stats)
+[![ghozt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ghozt777&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
