@@ -26,7 +26,7 @@
 
 
 ### Spotify Playing 
-[<img src="https://novatorem-ghozt777.vercel.app/" alt="ghozt777-Spotify-Playing" width="350" />]
+[<img src="https://github-spotify-mauve.vercel.app/" alt="ghozt777-Spotify-Playing" width="350" />]
 
 ### Languages and Tools that I'm currentlu learning:
 
