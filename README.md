@@ -55,14 +55,15 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghozt777&show_icons=true&theme=midnight-purple" alt="ghozt-languages" />
 </p>
 <p><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghozt777&repo=Logan-UI&show_icons=true&theme=midnight-purple"  alt="Logan-UI-card" /></p>
+  
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ghozt777&theme=dark" alt="ghozt777" />
+</p>
+
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 </details />
-  
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ghozt777&theme=dark" alt="ghozt777" />
-</p>
 
 
 [website]: https://ghozt.netlify.app/
