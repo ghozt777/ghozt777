@@ -2,6 +2,10 @@
 
 <img src="./github-background.png" alt="background" />
 
+### Spotify Playing 
+<img src="https://github-spotify-1bs3qe7jk-ghozt777.vercel.app/api/spotify" alt="ghozt777-Spotify-Playing" width="350" />
+
+
 [![Website](https://img.shields.io/website?down_message=offline&label=ghozt&up_color=%238B5CF6&up_message=online&url=https%3A%2F%2Fghozt.netlify.app%2F)](https://ghozt.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/url?label=ghozt&logoColor=%231F2937&style=social&url=https%3A%2F%2Ftwitter.com%2Fghozt60510632)](https://twitter.com/ghozt60510632)
 
@@ -62,7 +66,9 @@
 </p>
 
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=ghozt777&label=visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
+
  
+ <!--START_SECTION:activity-->
 
 
 
@@ -70,3 +76,4 @@
 [twitter]: https://twitter.com/ghozt60510632
 [instagram]: https://www.instagram.com/dontsleeponcustard/
 [linkedin]: https://www.linkedin.com/in/srijandas7/
+
