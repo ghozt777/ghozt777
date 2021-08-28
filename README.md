@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🤝 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Geting into Open Source Development
+- 🥅 2021 Goals: Getting into Open Source Development
 - ⚡ Fun fact: I love to sleep 😴 
 
 ### Connect with me:
