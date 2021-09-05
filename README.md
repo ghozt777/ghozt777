@@ -59,7 +59,6 @@
 
 [![logan player backend](https://github-readme-stats.vercel.app/api/pin/?username=ghozt777&repo=logan-player-backend&show_icons=true&theme=midnight-purple )](https://github.com/ghozt777/logan-player-backend)
 
-<p><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghozt777&repo=logan-player-backend&show_icons=true&theme=midnight-purple"  alt="logan-player-backend" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ghozt777&theme=dark" alt="ghozt777" />
 </p>
