@@ -55,9 +55,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghozt777&show_icons=true&theme=midnight-purple" alt="ghozt-languages" />
 </p>
 
-[![Logan UI](https://github-readme-stats.vercel.app/api/pin/?username=ghozt777&repo=Logan-UI&show_icons=true&theme=midnight-purple")](https://github.com/ghozt777/Logan-UI)
+[![Logan UI](https://github-readme-stats.vercel.app/api/pin/?username=ghozt777&repo=Logan-UI&show_icons=true&theme=midnight-purple)](https://github.com/ghozt777/Logan-UI)
 
-[![logan player backend](https://github-readme-stats.vercel.app/api/pin/?username=ghozt777&repo=logan-player-backend&show_icons=true&theme=midnight-purple" )](https://github.com/ghozt777/logan-player-backend)
+[![logan player backend](https://github-readme-stats.vercel.app/api/pin/?username=ghozt777&repo=logan-player-backend&show_icons=true&theme=midnight-purple )](https://github.com/ghozt777/logan-player-backend)
 
 <p><img src="https://github-readme-stats.vercel.app/api/pin/?username=ghozt777&repo=logan-player-backend&show_icons=true&theme=midnight-purple"  alt="logan-player-backend" /></p>
 
