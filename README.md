@@ -69,10 +69,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ghozt777/Logan-Player/pull/1) in [ghozt777/Logan-Player](https://github.com/ghozt777/Logan-Player)
-2. 💪 Opened PR [#1](https://github.com/ghozt777/Logan-Player/pull/1) in [ghozt777/Logan-Player](https://github.com/ghozt777/Logan-Player)
-3. 🎉 Merged PR [#2](https://github.com/ghozt777/ghozt777/pull/2) in [ghozt777/ghozt777](https://github.com/ghozt777/ghozt777)
-4. 💪 Opened PR [#2](https://github.com/ghozt777/ghozt777/pull/2) in [ghozt777/ghozt777](https://github.com/ghozt777/ghozt777)
+1. 🎉 Merged PR [#2](https://github.com/ghozt777/Logan-Player/pull/2) in [ghozt777/Logan-Player](https://github.com/ghozt777/Logan-Player)
+2. 💪 Opened PR [#2](https://github.com/ghozt777/Logan-Player/pull/2) in [ghozt777/Logan-Player](https://github.com/ghozt777/Logan-Player)
+3. 🎉 Merged PR [#1](https://github.com/ghozt777/Logan-Player/pull/1) in [ghozt777/Logan-Player](https://github.com/ghozt777/Logan-Player)
+4. 💪 Opened PR [#1](https://github.com/ghozt777/Logan-Player/pull/1) in [ghozt777/Logan-Player](https://github.com/ghozt777/Logan-Player)
 5. 🎉 Merged PR [#14](https://github.com/ghozt777/help-let-me-go/pull/14) in [ghozt777/help-let-me-go](https://github.com/ghozt777/help-let-me-go)
 <!--END_SECTION:activity-->
 
