@@ -69,11 +69,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#126](https://github.com/kanak22/CP-DSA-Questions/issues/126) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
-2. ❗️ Opened issue [#126](https://github.com/kanak22/CP-DSA-Questions/issues/126) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
-3. 🎉 Merged PR [#3](https://github.com/ghozt777/Logan-Player/pull/3) in [ghozt777/Logan-Player](https://github.com/ghozt777/Logan-Player)
-4. 💪 Opened PR [#3](https://github.com/ghozt777/Logan-Player/pull/3) in [ghozt777/Logan-Player](https://github.com/ghozt777/Logan-Player)
-5. 🎉 Merged PR [#2](https://github.com/ghozt777/Logan-Player/pull/2) in [ghozt777/Logan-Player](https://github.com/ghozt777/Logan-Player)
+1. 🗣 Commented on [#152](https://github.com/kanak22/CP-DSA-Questions/issues/152) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
+2. ❗️ Opened issue [#152](https://github.com/kanak22/CP-DSA-Questions/issues/152) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
+3. 💪 Opened PR [#150](https://github.com/kanak22/CP-DSA-Questions/pull/150) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
+4. 🗣 Commented on [#126](https://github.com/kanak22/CP-DSA-Questions/issues/126) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
+5. ❗️ Opened issue [#126](https://github.com/kanak22/CP-DSA-Questions/issues/126) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
 <!--END_SECTION:activity-->
 
 </details />
