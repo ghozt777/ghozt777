@@ -69,11 +69,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#158](https://github.com/kanak22/CP-DSA-Questions/issues/158) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
-2. 🗣 Commented on [#159](https://github.com/kanak22/CP-DSA-Questions/issues/159) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
-3. ❗️ Opened issue [#159](https://github.com/kanak22/CP-DSA-Questions/issues/159) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
-4. ❗️ Opened issue [#158](https://github.com/kanak22/CP-DSA-Questions/issues/158) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
-5. 🗣 Commented on [#156](https://github.com/kanak22/CP-DSA-Questions/issues/156) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
+1. 💪 Opened PR [#274](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/pull/274) in [aritraroy24/HACKTOBERFEST2021_PATTERN](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN)
+2. 🗣 Commented on [#158](https://github.com/kanak22/CP-DSA-Questions/issues/158) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
+3. 🗣 Commented on [#159](https://github.com/kanak22/CP-DSA-Questions/issues/159) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
+4. ❗️ Opened issue [#159](https://github.com/kanak22/CP-DSA-Questions/issues/159) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
+5. ❗️ Opened issue [#158](https://github.com/kanak22/CP-DSA-Questions/issues/158) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
 <!--END_SECTION:activity-->
 
 </details />
