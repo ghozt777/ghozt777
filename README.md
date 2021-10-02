@@ -69,11 +69,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#219](https://github.com/kanak22/CP-DSA-Questions/pull/219) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
-2. 💪 Opened PR [#219](https://github.com/kanak22/CP-DSA-Questions/pull/219) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
-3. 💪 Opened PR [#211](https://github.com/kanak22/CP-DSA-Questions/pull/211) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
-4. 💪 Opened PR [#274](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/pull/274) in [aritraroy24/HACKTOBERFEST2021_PATTERN](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN)
-5. 🗣 Commented on [#158](https://github.com/kanak22/CP-DSA-Questions/issues/158) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
+1. 💪 Opened PR [#225](https://github.com/kanak22/CP-DSA-Questions/pull/225) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
+2. 💪 Opened PR [#223](https://github.com/kanak22/CP-DSA-Questions/pull/223) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
+3. ❌ Closed PR [#219](https://github.com/kanak22/CP-DSA-Questions/pull/219) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
+4. 💪 Opened PR [#219](https://github.com/kanak22/CP-DSA-Questions/pull/219) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
+5. 💪 Opened PR [#211](https://github.com/kanak22/CP-DSA-Questions/pull/211) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
 <!--END_SECTION:activity-->
 
 </details />
