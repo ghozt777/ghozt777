@@ -69,11 +69,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1973](https://github.com/vinitshahdeo/inspirational-quotes/issues/1973) in [vinitshahdeo/inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
-2. 💪 Opened PR [#1957](https://github.com/vinitshahdeo/inspirational-quotes/pull/1957) in [vinitshahdeo/inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
-3. 🗣 Commented on [#158](https://github.com/kanak22/CP-DSA-Questions/issues/158) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
-4. 💪 Opened PR [#225](https://github.com/kanak22/CP-DSA-Questions/pull/225) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
-5. 💪 Opened PR [#223](https://github.com/kanak22/CP-DSA-Questions/pull/223) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
+1. 🗣 Commented on [#211](https://github.com/kanak22/CP-DSA-Questions/issues/211) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
+2. ❗️ Opened issue [#1973](https://github.com/vinitshahdeo/inspirational-quotes/issues/1973) in [vinitshahdeo/inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
+3. 💪 Opened PR [#1957](https://github.com/vinitshahdeo/inspirational-quotes/pull/1957) in [vinitshahdeo/inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
+4. 🗣 Commented on [#158](https://github.com/kanak22/CP-DSA-Questions/issues/158) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
+5. 💪 Opened PR [#225](https://github.com/kanak22/CP-DSA-Questions/pull/225) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
 <!--END_SECTION:activity-->
 
 </details />
