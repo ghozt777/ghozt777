@@ -69,11 +69,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#92](https://github.com/rishipurwar1/coding-space/pull/92) in [rishipurwar1/coding-space](https://github.com/rishipurwar1/coding-space)
-2. 🗣 Commented on [#1588](https://github.com/ahampriyanshu/algo_ds_101/issues/1588) in [ahampriyanshu/algo_ds_101](https://github.com/ahampriyanshu/algo_ds_101)
-3. 🗣 Commented on [#211](https://github.com/kanak22/CP-DSA-Questions/issues/211) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
-4. 🗣 Commented on [#223](https://github.com/kanak22/CP-DSA-Questions/issues/223) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
-5. 🗣 Commented on [#225](https://github.com/kanak22/CP-DSA-Questions/issues/225) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
+1. 🗣 Commented on [#92](https://github.com/rishipurwar1/coding-space/issues/92) in [rishipurwar1/coding-space](https://github.com/rishipurwar1/coding-space)
+2. 💪 Opened PR [#92](https://github.com/rishipurwar1/coding-space/pull/92) in [rishipurwar1/coding-space](https://github.com/rishipurwar1/coding-space)
+3. 🗣 Commented on [#1588](https://github.com/ahampriyanshu/algo_ds_101/issues/1588) in [ahampriyanshu/algo_ds_101](https://github.com/ahampriyanshu/algo_ds_101)
+4. 🗣 Commented on [#211](https://github.com/kanak22/CP-DSA-Questions/issues/211) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
+5. 🗣 Commented on [#223](https://github.com/kanak22/CP-DSA-Questions/issues/223) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
 <!--END_SECTION:activity-->
 
 </details />
