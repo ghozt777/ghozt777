@@ -70,10 +70,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#99](https://github.com/rishipurwar1/coding-space/issues/99) in [rishipurwar1/coding-space](https://github.com/rishipurwar1/coding-space)
-2. 💪 Opened PR [#99](https://github.com/rishipurwar1/coding-space/pull/99) in [rishipurwar1/coding-space](https://github.com/rishipurwar1/coding-space)
-3. 🗣 Commented on [#94](https://github.com/rishipurwar1/coding-space/issues/94) in [rishipurwar1/coding-space](https://github.com/rishipurwar1/coding-space)
-4. 🗣 Commented on [#94](https://github.com/rishipurwar1/coding-space/issues/94) in [rishipurwar1/coding-space](https://github.com/rishipurwar1/coding-space)
-5. 🗣 Commented on [#94](https://github.com/rishipurwar1/coding-space/issues/94) in [rishipurwar1/coding-space](https://github.com/rishipurwar1/coding-space)
+2. 🗣 Commented on [#99](https://github.com/rishipurwar1/coding-space/issues/99) in [rishipurwar1/coding-space](https://github.com/rishipurwar1/coding-space)
+3. 🗣 Commented on [#99](https://github.com/rishipurwar1/coding-space/issues/99) in [rishipurwar1/coding-space](https://github.com/rishipurwar1/coding-space)
+4. 🗣 Commented on [#99](https://github.com/rishipurwar1/coding-space/issues/99) in [rishipurwar1/coding-space](https://github.com/rishipurwar1/coding-space)
+5. 🗣 Commented on [#99](https://github.com/rishipurwar1/coding-space/issues/99) in [rishipurwar1/coding-space](https://github.com/rishipurwar1/coding-space)
 <!--END_SECTION:activity-->
 
 </details />
