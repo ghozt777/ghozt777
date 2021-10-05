@@ -69,11 +69,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1957](https://github.com/vinitshahdeo/inspirational-quotes/pull/1957) in [vinitshahdeo/inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
-2. ❌ Closed PR [#255](https://github.com/kunal-kushwaha/commclassroomOP/pull/255) in [kunal-kushwaha/commclassroomOP](https://github.com/kunal-kushwaha/commclassroomOP)
-3. 💪 Opened PR [#100](https://github.com/rishipurwar1/coding-space/pull/100) in [rishipurwar1/coding-space](https://github.com/rishipurwar1/coding-space)
-4. 🗣 Commented on [#99](https://github.com/rishipurwar1/coding-space/issues/99) in [rishipurwar1/coding-space](https://github.com/rishipurwar1/coding-space)
-5. 🗣 Commented on [#99](https://github.com/rishipurwar1/coding-space/issues/99) in [rishipurwar1/coding-space](https://github.com/rishipurwar1/coding-space)
+1. 🗣 Commented on [#342](https://github.com/kanak22/CP-DSA-Questions/issues/342) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
+2. 💪 Opened PR [#342](https://github.com/kanak22/CP-DSA-Questions/pull/342) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
+3. ❌ Closed PR [#1957](https://github.com/vinitshahdeo/inspirational-quotes/pull/1957) in [vinitshahdeo/inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
+4. ❌ Closed PR [#255](https://github.com/kunal-kushwaha/commclassroomOP/pull/255) in [kunal-kushwaha/commclassroomOP](https://github.com/kunal-kushwaha/commclassroomOP)
+5. 💪 Opened PR [#100](https://github.com/rishipurwar1/coding-space/pull/100) in [rishipurwar1/coding-space](https://github.com/rishipurwar1/coding-space)
 <!--END_SECTION:activity-->
 
 </details />
