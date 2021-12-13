@@ -45,20 +45,6 @@
     </a>
 </p>
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
-<!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#2](https://github.com/ghozt777/DSA-Bootcamp-Java-Solutions/pull/2) in [ghozt777/DSA-Bootcamp-Java-Solutions](https://github.com/ghozt777/DSA-Bootcamp-Java-Solutions)
-2. 💪 Opened PR [#2](https://github.com/ghozt777/DSA-Bootcamp-Java-Solutions/pull/2) in [ghozt777/DSA-Bootcamp-Java-Solutions](https://github.com/ghozt777/DSA-Bootcamp-Java-Solutions)
-3. 🎉 Merged PR [#1](https://github.com/ghozt777/DSA-Bootcamp-Java-Solutions/pull/1) in [ghozt777/DSA-Bootcamp-Java-Solutions](https://github.com/ghozt777/DSA-Bootcamp-Java-Solutions)
-4. 💪 Opened PR [#1](https://github.com/ghozt777/DSA-Bootcamp-Java-Solutions/pull/1) in [ghozt777/DSA-Bootcamp-Java-Solutions](https://github.com/ghozt777/DSA-Bootcamp-Java-Solutions)
-5. 🗣 Commented on [#342](https://github.com/kanak22/CP-DSA-Questions/issues/342) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
-<!--END_SECTION:activity-->
-
-</details />
-
 [website]: https://ghozt.netlify.app/
 [twitter]: https://twitter.com/ghozt60510632
 [instagram]: https://www.instagram.com/dontsleeponcustard/
