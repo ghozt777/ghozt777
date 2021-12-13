@@ -25,17 +25,11 @@
 <img align="left" alt="Terminal" width="40px" src="./icons/cli.png" />
 </div>
 
-<div style = "width : 95% ; padding : 5px ; border-radius: 10px ; background-color: #c084fc; margin : 20px 0px ;" >
-</div>
-
-<div style = " margin-top : 20px ; display : flex ; flex-direction : column ; align-items: center ; gap : 20px ; " >
   <img style = "width : 60%" src="https://github-readme-stats.vercel.app/api?username=ghozt777&show_icons=true&theme=chartreuse-dark" alt="ghozt777-stats"/>
 
   <img style = "width : 60% ;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghozt777&show_icons=true&theme=chartreuse-dark" alt="ghozt-languages" />
 
   <img style = "width : 60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ghozt777&theme=chartreuse-dark" alt="ghozt777" />
-
-</div>
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
