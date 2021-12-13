@@ -27,10 +27,11 @@
 <img align="left" alt="Terminal" width="40px" src="./icons/cli.png" />
 </div>
 
+<br>
+<br>
 
-<h3><b><samp>Stats For Nerds</samp></b></h3>
+### Stats For Nerds
 
-##
 
 <p align="center" >
     <a href="https://github.com/arp99">
