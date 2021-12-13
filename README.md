@@ -28,8 +28,6 @@
 <div style = "width : 95% ; padding : 5px ; border-radius: 10px ; background-color: #c084fc; margin : 20px 0px ;" >
 </div>
 
-### Stats for Nerds
-
 <div style = " margin-top : 20px ; display : flex ; flex-direction : column ; align-items: center ; gap : 20px ; " >
   <img  src="https://github-readme-stats.vercel.app/api?username=ghozt777&show_icons=true&theme=chartreuse-dark" alt="ghozt777-stats"/>
 
