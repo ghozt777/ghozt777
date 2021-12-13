@@ -25,7 +25,12 @@
 <img align="left" alt="Terminal" width="40px" src="./icons/cli.png" />
 </div>
 
-  <img style = " margin-top: 5rem ; margin-left : 0px ;  width : 100%" src="https://github-readme-stats.vercel.app/api?username=ghozt777&show_icons=true&theme=chartreuse-dark" alt="ghozt777-stats"/>
+<pre>
+
+
+</pre>
+
+  <img style = "width : 100%" src="https://github-readme-stats.vercel.app/api?username=ghozt777&show_icons=true&theme=chartreuse-dark" alt="ghozt777-stats"/>
 
   <img style = "width : 60% ;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghozt777&show_icons=true&theme=chartreuse-dark" alt="ghozt-languages" />
 
