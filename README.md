@@ -1,74 +1,49 @@
-## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  I'm Srijan Das - aka [ghozt777][website]
+## Hi there <img src="./icons/Hi.gif" width="29px"> I'm Srijan Das - aka [ghozt777][website]
 
 <img src="./github-background.png" alt="background" />
 
-### I'm currently listening to 🎧 
-[![Spotify](https://github-spotify-1bs3qe7jk-ghozt777.vercel.app/api/spotify)](https://open.spotify.com/user/ghozt777)
+### I'm currently listening to 🎧
 
+[![Spotify](https://github-spotify-1bs3qe7jk-ghozt777.vercel.app/api/spotify)](https://open.spotify.com/user/ghozt777)
 
 [![Website](https://img.shields.io/website?down_message=offline&label=ghozt&up_color=%238B5CF6&up_message=online&url=https%3A%2F%2Fghozt.netlify.app%2F)](https://ghozt.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/url?label=ghozt&logoColor=%231F2937&style=social&url=https%3A%2F%2Ftwitter.com%2Fghozt60510632)](https://twitter.com/ghozt60510632)
 
-### I'm a Procrastinator, Student 🤓  , CS enthusiast 🖥️  , and a gaming addict 🎮 !!
+### Languages and Tools that I'm currently Using 👇
 
-- 🌱 I’m currently learning everything 🤣
-- 🤝 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Getting into Open Source Development
-- ⚡ Fun fact: I love to sleep 😴 
+<div style = "display : flex ; height : 40px ; width : 100% ; gap : 1rem ; margin: 20px 0px ; align-items:center ;" >
+<img align="left" alt="Visual Studio Code" height="34px" src="./icons/vscode.png" />
 
-### Connect with me:
+<img align="left" alt="JavaScript" width="40px" src="./icons/js.png" />
+<img align="left" alt="TypeScript" width="40px" src="./icons/ts.png" />
+<img align="left" alt="React" width="40px" src="./icons/react.svg" />
+<img align="left" alt="GraphQL" width="40px" src="./icons/graphql.svg" />
+<img align="left" alt="Node.js" width="40px" src="./icons/node.svg" />
+<img align="left" alt="MongoDB" width="40px" src="./icons/mongo.png" />
+<img align="left" alt="Git" width="40px" src="./icons/git.svg" />
+<img align="left" alt="c++" width="40px" src="./icons/cpp.svg" />
+<img align="left" alt="Terminal" width="40px" src="./icons/cli.png" />
+</div>
 
-[<img align="left" alt="ghozt.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<div style = "width : 95% ; padding : 5px ; border-radius: 10px ; background-color: #c084fc; margin : 20px 0px ;" >
+</div>
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+### Stats for Nerds
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<div style = " margin-top : 20px ; display : flex ; flex-direction : column ; align-items: center ; gap : 20px ; " >
+  <img  src="https://github-readme-stats.vercel.app/api?username=ghozt777&show_icons=true&theme=chartreuse-dark" alt="ghozt777-stats"/>
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+  <img style = "width : 60% ;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghozt777&show_icons=true&theme=chartreuse-dark" alt="ghozt-languages" />
 
-<br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghozt777&theme=chartreuse-dark" alt="ghozt777" />
 
-### Languages and Tools that I'm currently learning:
-
-<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-<br />
-
-
-
-
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=ghozt777&show_icons=true&theme=midnight-purple" alt="ghozt777-stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghozt777&show_icons=true&theme=midnight-purple" alt="ghozt-languages" />
-</p>
-
-[![Logan UI](https://github-readme-stats.vercel.app/api/pin/?username=ghozt777&repo=Logan-UI&show_icons=true&theme=midnight-purple)](https://github.com/ghozt777/Logan-UI)
-
-[![logan player backend](https://github-readme-stats.vercel.app/api/pin/?username=ghozt777&repo=logan-player-backend&show_icons=true&theme=midnight-purple )](https://github.com/ghozt777/logan-player-backend)
-
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ghozt777&theme=dark" alt="ghozt777" />
-</p>
-
+</div>
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#2](https://github.com/ghozt777/DSA-Bootcamp-Java-Solutions/pull/2) in [ghozt777/DSA-Bootcamp-Java-Solutions](https://github.com/ghozt777/DSA-Bootcamp-Java-Solutions)
 2. 💪 Opened PR [#2](https://github.com/ghozt777/DSA-Bootcamp-Java-Solutions/pull/2) in [ghozt777/DSA-Bootcamp-Java-Solutions](https://github.com/ghozt777/DSA-Bootcamp-Java-Solutions)
 3. 🎉 Merged PR [#1](https://github.com/ghozt777/DSA-Bootcamp-Java-Solutions/pull/1) in [ghozt777/DSA-Bootcamp-Java-Solutions](https://github.com/ghozt777/DSA-Bootcamp-Java-Solutions)
@@ -78,9 +53,7 @@
 
 </details />
 
-
 [website]: https://ghozt.netlify.app/
 [twitter]: https://twitter.com/ghozt60510632
 [instagram]: https://www.instagram.com/dontsleeponcustard/
 [linkedin]: https://www.linkedin.com/in/srijandas7/
-
