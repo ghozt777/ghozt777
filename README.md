@@ -9,6 +9,8 @@
 [![Website](https://img.shields.io/website?down_message=offline&label=ghozt&up_color=%238B5CF6&up_message=online&url=https%3A%2F%2Fghozt.netlify.app%2F)](https://ghozt.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/url?label=ghozt&logoColor=%231F2937&style=social&url=https%3A%2F%2Ftwitter.com%2Fghozt60510632)](https://twitter.com/ghozt60510632)
 
+<hr>
+
 ### Languages and Tools that I'm currently Using 👇
 
 <div style = "display : flex ; height : 40px ; width : 100% ; gap : 1rem ; margin: 20px 0px ; align-items:center ;" >
@@ -25,16 +27,25 @@
 <img align="left" alt="Terminal" width="40px" src="./icons/cli.png" />
 </div>
 
-<pre>
+##
 
+<hr>
 
-</pre>
+<h3><b><samp>Stats For Nerds</samp></b></h3>
 
-  <img style = "width : 100%" src="https://github-readme-stats.vercel.app/api?username=ghozt777&show_icons=true&theme=chartreuse-dark" alt="ghozt777-stats"/>
+##
 
-  <img style = "width : 60% ;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghozt777&show_icons=true&theme=chartreuse-dark" alt="ghozt-languages" />
-
+<p align="center" >
+    <a href="https://github.com/arp99">
+          <img src="https://github-readme-stats.vercel.app/api?username=ghozt777&show_icons=true&theme=chartreuse-dark" alt="ghozt777-stats"/>
+        <br>
   <img style = "width : 60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ghozt777&theme=chartreuse-dark" alt="ghozt777" />
+        <br>
+        <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ghozt777&hide=html&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+        <br>
+        <img height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghozt777&theme=monokai" />
+    </a>
+</p>
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
