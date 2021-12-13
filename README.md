@@ -27,9 +27,6 @@
 <img align="left" alt="Terminal" width="40px" src="./icons/cli.png" />
 </div>
 
-##
-
-<hr>
 
 <h3><b><samp>Stats For Nerds</samp></b></h3>
 
