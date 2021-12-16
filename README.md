@@ -34,7 +34,7 @@
 
 
 <p align="center" >
-    <a href="https://github.com/arp99">
+    <a href="https://github.com/ghozt777">
           <img src="https://github-readme-stats.vercel.app/api?username=ghozt777&show_icons=true&theme=chartreuse-dark" alt="ghozt777-stats"/>
         <br>
   <img style = "width : 60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ghozt777&theme=chartreuse-dark" alt="ghozt777" />
