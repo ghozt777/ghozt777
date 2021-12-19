@@ -19,15 +19,17 @@
 <img align="left" alt="JavaScript" width="40px" src="./icons/js.png" />
 <img align="left" alt="TypeScript" width="40px" src="./icons/ts.png" />
 <img align="left" alt="React" width="40px" src="./icons/react.svg" />
+<img align="left" alt="Redux" width="40px" src="./icons/redux.svg" />
+<img align="left" alt="Tailwind Css" width="40px" src="./icons/tailwind-css.svg" />
+<img align="left" alt="Next JS" width="40px" src="./icons/next-js.svg" />
 <img align="left" alt="GraphQL" width="40px" src="./icons/graphql.svg" />
+<img align="left" alt="urql" width="40px" src="./icons/urql.svg" />
 <img align="left" alt="Node.js" width="40px" src="./icons/node.svg" />
 <img align="left" alt="MongoDB" width="40px" src="./icons/mongo.png" />
 <img align="left" alt="Git" width="40px" src="./icons/git.svg" />
 <img align="left" alt="c++" width="40px" src="./icons/cpp.svg" />
 <img align="left" alt="Terminal" width="40px" src="./icons/cli.png" />
 </div>
-
-##
 
 <hr>
 
