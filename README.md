@@ -32,13 +32,13 @@
 </div>
 
 <hr>
+<br>
+<br>
 
-<h3><b><samp>Stats For Nerds</samp></b></h3>
-
-##
+### Stats For Nerds
 
 <p align="center" >
-    <a href="https://github.com/arp99">
+    <a href="https://github.com/ghozt777">
           <img src="https://github-readme-stats.vercel.app/api?username=ghozt777&show_icons=true&theme=chartreuse-dark" alt="ghozt777-stats"/>
         <br>
   <img style = "width : 60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ghozt777&theme=chartreuse-dark" alt="ghozt777" />
@@ -48,20 +48,6 @@
         <img height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghozt777&theme=monokai" />
     </a>
 </p>
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
-<!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#2](https://github.com/ghozt777/DSA-Bootcamp-Java-Solutions/pull/2) in [ghozt777/DSA-Bootcamp-Java-Solutions](https://github.com/ghozt777/DSA-Bootcamp-Java-Solutions)
-2. 💪 Opened PR [#2](https://github.com/ghozt777/DSA-Bootcamp-Java-Solutions/pull/2) in [ghozt777/DSA-Bootcamp-Java-Solutions](https://github.com/ghozt777/DSA-Bootcamp-Java-Solutions)
-3. 🎉 Merged PR [#1](https://github.com/ghozt777/DSA-Bootcamp-Java-Solutions/pull/1) in [ghozt777/DSA-Bootcamp-Java-Solutions](https://github.com/ghozt777/DSA-Bootcamp-Java-Solutions)
-4. 💪 Opened PR [#1](https://github.com/ghozt777/DSA-Bootcamp-Java-Solutions/pull/1) in [ghozt777/DSA-Bootcamp-Java-Solutions](https://github.com/ghozt777/DSA-Bootcamp-Java-Solutions)
-5. 🗣 Commented on [#342](https://github.com/kanak22/CP-DSA-Questions/issues/342) in [kanak22/CP-DSA-Questions](https://github.com/kanak22/CP-DSA-Questions)
-<!--END_SECTION:activity-->
-
-</details />
 
 [website]: https://ghozt.netlify.app/
 [twitter]: https://twitter.com/ghozt60510632
