@@ -1,4 +1,4 @@
-## Hi there <img src="./icons/Hi.gif" width="29px"> I'm Srijan Das - aka [ghozt777][website]
+## Hi there <img src="./icons/Hi.gif" height="30px" width="29px"> I'm Srijan Das - aka [ghozt777][website]
 
 <img src="./github-background.png" alt="background" />
 
